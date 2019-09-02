@@ -1,8 +1,11 @@
 # Hyperspace-Invasion 次元入侵
 
-这个项目演示了如何嵌入zarch脚本混合开发unity3d项目。
+这个项目演示了如何嵌入zarch脚本混合开发unity3d项目。[点这试玩WebGL版本](http://da.studio/Hyperspace-Invasion/)
 
-![preview](https://raw.githubusercontent.com/DASTUDIO/Hyperspace-Invasion/master/img/preview.png)
+![preview](https://raw.githubusercontent.com/DASTUDIO/Hyperspace-Invasion/master/img/preview.gif)
+
+## 跨平台
+Zarch基于反射，但它可以在ios，webgl上执行，为此你需要用保守的代码`Zarch.classes.Register<>()`的方式注册你用到的类，
 
 ## 简洁清晰
 
@@ -35,5 +38,4 @@ Zarch.code = "$(new(myPrefab)).pos(1,2,3)"
 $(hp).slider(100)     			# 加满血条
 ```
 
-
-![preview](https://raw.githubusercontent.com/DASTUDIO/Hyperspace-Invasion/master/img/preview.gif)
+![preview](https://raw.githubusercontent.com/DASTUDIO/Hyperspace-Invasion/master/img/preview.png)
