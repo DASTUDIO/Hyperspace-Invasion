@@ -1,6 +1,6 @@
 # Hyperspace-Invasion 次元入侵
 
-这个项目演示了如何嵌入zarch脚本混合开发unity3d项目。[点这试玩WebGL版本](http://da.studio/Hyperspace-Invasion/)
+这个项目演示了如何嵌入zarch脚本混合开发unity3d项目。[点这试玩WebGL版本](http://github.zhangxinhao.com/Hyperspace-Invasion/)
 
 ![preview](https://raw.githubusercontent.com/DASTUDIO/Hyperspace-Invasion/master/img/preview.gif)
 
